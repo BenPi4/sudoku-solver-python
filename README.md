@@ -53,6 +53,7 @@ This project offers a comprehensive solution for Sudoku puzzles, including solvi
 The output for each board attempt will be appended to `solved_sudoku.txt`. You will see messages and formatted boards similar to these examples:
 
 **Example 1: Solved Board**
+```bash
 ---------------------
 5|3|4|6|7|8|9|1|2
 6|7|2|1|9|5|3|4|8
@@ -64,7 +65,7 @@ The output for each board attempt will be appended to `solved_sudoku.txt`. You w
 2|8|7|4|1|9|6|3|5
 3|4|5|2|8|6|1|7|9
 ---------------------
-
+```
 **Example 2: Unsolvable Board**
 Board is unsolvable
 
