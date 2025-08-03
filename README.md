@@ -74,3 +74,5 @@ Board is not legit
 ---
 
 ## 👨‍💻 Author
+
+Developed by Ben Pitkovsky
