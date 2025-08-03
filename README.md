@@ -16,7 +16,7 @@ A clean, efficient Sudoku solver written in Python that uses a recursive **backt
 
 ## 📁 Project Structure
 
-- `sudoku_solver.py` — the main script, includes:
+- `sudoku.py` — the main script, includes:
 
   - `solve_sudoku(board)` — recursive solver with MRV
   - `options(board, loc)` — legal values for a cell
